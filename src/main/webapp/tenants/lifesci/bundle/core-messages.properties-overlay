@@ -57,37 +57,37 @@ taxon-preferredTaxonLabel: Taxon Term Group(s)
 
 # -------------------------------------
 #Login
-login-allFieldsRequired: All fields must be filled in
-login-emailRequired: You must enter a valid email address
-login-passwordsMustMatch: Passwords must match
-login-invalid: Invalid email/password combination
-login-generalError: We are sorry, an error has occurred. Please try again, or contact your system administrator.
-login-current: Current Release 4.1 Information
-login-current-info: Welcome to the CollectionSpace Life Science tenant, which has been configured to support life sciences collections. Additions to the core CollectionSpace functionality include support for scientific taxonomies, scientific determination, and more.
-login-current-details:
-login-login-info: To view the CollectionSpace Life Science tenant, use the login box on the right with the login:
+# login-allFieldsRequired: 
+# login-emailRequired: 
+# login-passwordsMustMatch: 
+# login-invalid: 
+# login-generalError: 
+login-current: CollectionSpace 4.1: Demonstration Life Science Tenant
+# login-current-info: 
+login-current-details: Welcome to the Sign In screen for the demonstration CollectionSpace Life Science tenant, which has been configured to support life sciences collections. Additions to the core CollectionSpace functionality include support for scientific taxonomies, scientific determination, and more.
+login-login-info: To explore the CollectionSpace Life Science tenant, in the Sign In box to the right, enter the Email:
 login-login: admin@lifesci.collectionspace.org
-login-login-pwd:  and the password\t 
+login-login-pwd: and Password:
 login-login-pwdValue: Administrator
-login-rologin-info: Or use the read-only account:
-login-rologin: reader@core.collectionspace.org
-login-rologin-pwd:  and password: 
+login-rologin-info: Or for read-only viewing, enter the Email:
+login-rologin: reader@lifesci.collectionspace.org
+login-rologin-pwd: and Password:
 login-rologin-pwdValue: reader
 login-footerFirst: To return to the CollectionSpace Core tenant, follow\t
 login-footerLink: this link
-login-footerLast: .
-login-header: Sign In
-login-email-label: Email
-login-password-label: Password
-login-loginButton: Sign In
-login-forgot: Forgot Password?\t
-login-reset-label: Click here to reset password,
-login-reset-header: Reset password
-login-enterEmailMessage: Please enter the email address associated with your account.
-login-submitEmail: Reset My Password
-login-loginBack: Back to Sign In page
-login-loginNewPasswordNote: Enter the new password for\t
-login-loginPasswordInstructions: Password must be between 8 and 24 characters.
-login-loginNewPasswordLabel: New Password
-login-loginConfirmPasswordLabel: Confirm Password
-login-submitNewPassword: Reset
+# login-footerLast:
+# login-header: 
+# login-email-label: 
+# login-password-label: 
+# login-loginButton: 
+# login-forgot: 
+# login-reset-label: 
+# login-reset-header: 
+# login-enterEmailMessage: 
+# login-submitEmail: 
+# login-loginBack: 
+# login-loginNewPasswordNote: 
+# login-loginPasswordInstructions: 
+# login-loginNewPasswordLabel: 
+# login-loginConfirmPasswordLabel: 
+# login-submitNewPassword: 
